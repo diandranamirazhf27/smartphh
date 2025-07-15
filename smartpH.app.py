@@ -63,7 +63,7 @@ with st.sidebar:
 
 if selected == "Beranda":
     st.title("Kalkulator pH Larutan")
-    st.image("https://via.placeholder.com/800x200?text=Kalkulator+pH", use_column_width=True)
+    
     st.write("""
     Aplikasi ini membantu menghitung:
     - pH Asam Kuat (HCl, H2SO4, dll)
